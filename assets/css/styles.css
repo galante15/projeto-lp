@@ -37,12 +37,9 @@
 }
 
 .grid-main-heading {
-  margin-bottom: 1rem;
-}
-
-.grid-description {
   padding-bottom: 5rem;
 }
+
 
 .grid {
   display: grid;
